@@ -1,6 +1,8 @@
 Mustache-Wax
 ============
 
+**Disclaimer: I do not own this nor I deserve credit for this library. The only reason why I'm forking it and publishing it under a different name is because the version on NPM Registry is too outdated and I didn't want to copy the JavaScript artefact and paste it manually on my SCM. Once the original author decides to update the mustache-wax version on NPM registry, this should no longer be used**
+
 Wax is an extension for Mustache.js, it enables the use of formatters inside of Mustache expressions in a similar fasion of Angular filters.
 
 This extension requires that **String.prototype.trim()** method exists, you can grab a Polyfill from 
